@@ -1,0 +1,108 @@
+     body {
+            font-family: 微軟正黑體
+        }
+        
+        .col-12 {
+            margin-top: 60px;
+            background: #6996F0;
+            padding: 50px;
+        }
+        .領養須知{
+            height:1100px;
+            font-size:1.5em;            
+            font-family: 微軟正黑體
+
+        }
+        .領養須知 h1{
+            text-align:center;
+        }
+        
+        h1 {
+            color: white;
+            font-weight: bold;
+            font-family: 微軟正黑體
+        }
+        
+        .右字 {
+            background: white;
+            height: 50vh;
+            padding: 30px;
+            color: #000;
+            font-size: 1em;
+        }
+        
+        .左字 {
+            background: #3FBBD8;
+            height: 50vh;
+            padding: 30px;
+            color: #fff;
+            font-size: 1em;
+        }
+        
+        .右字 .h2{
+            color: #3FBBD8;
+            font-size:2.2em;
+            height: 60px;
+            width:100%;
+            border-bottom: 1px solid #3FBBD8;
+            font-family: 微軟正黑體;
+            font-weight:bold
+        }
+        
+        .左字 .h2 {
+            color: white;
+            height: 60px;
+            border-bottom: 1px solid white;
+            font-family: 微軟正黑體
+        }
+        
+        .圖 {
+            background: none;
+        }
+        
+        .圖-1 {
+            background: url(../img/s1.jpg) no-repeat center;
+            height: 50vh;
+            background-size: cover;
+        }
+        
+        .圖-2 {
+            background: url(../2.jpg) no-repeat center;
+            height: 30vh;
+            background-size: cover;
+        }
+        
+        .圖-3 {
+            background: url(../3.jpg) no-repeat center;
+            height: 30vh;
+            background-size: cover;
+        }
+        
+        .圖-4 {
+            background: url(../4.jpg) no-repeat center;
+            height: 30vh;
+            background-size: cover;
+        }
+        
+        .圖-5 {
+            background: url(../img/s5.jpg) no-repeat center;
+            height: 30vh;
+            background-size: cover;
+        }
+        
+        @media screen and (min-width: 1500px) {
+            /*xl以上*/
+            .右字 {
+                background: white;
+                height: 50vh;
+                padding: 30px;
+                color: #000;
+            }
+            .左字 {
+                background: #3FBBD0;
+                height: 50vh;
+            }
+            .圖 {
+                height: 50vh;
+            }
+        }

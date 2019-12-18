@@ -1,0 +1,50 @@
+  body{
+            background: #84C1FF   ;
+                 font-family: "微軟正黑體";
+
+        }
+        
+        
+        .content{
+            width: 1200px;
+            height: 100%;
+            margin: 10% auto;
+            padding-bottom:50px;
+            background-color: #D2E9FF   ;
+            box-shadow:3px 3px 5px 6px #666   ;
+            
+        }
+        .dogtitle{
+            font-size: 50px;
+
+        }
+        
+        .main h1 {
+
+           
+            font-family: "微軟正黑體";
+         font-size: 45px;
+                       margin: 0px auto;
+
+            padding: 60px 40px 60px 60px;
+            font-weight: bold;
+
+        }
+        
+        .main h2 {
+            font-size: 30px;
+            padding: 20px 0px 0px 20px;
+            font-family: "微軟正黑體";
+            font-weight: bold;
+            margin: 0px auto;
+            color: #c41818;
+        }
+        
+        .main p {
+            font-size: 30px;
+            color: #000;
+            font-family: "微軟正黑體";
+         
+           
+        }
+ 

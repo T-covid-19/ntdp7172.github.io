@@ -1,0 +1,88 @@
+.tnvrmain {
+    margin: 0px auto ;padding-top: 120px;
+    height: 1200px;
+}
+
+
+.tnvrmain-1 {
+    background: #f4d998;
+    height: 1000px;
+    padding-top: 10%;
+}
+
+.tnvrmain-2 {
+    background: #B088FF;
+    height: 1000px;
+    padding-top: 8%;
+}
+.tnvrmain-3 {
+    background: #ffa0a0;
+    height: 1000px;
+    padding-top: 8%;
+}
+.tnvrmain-4 {
+    background: #9999FF;
+    height: 1000px;
+    padding-top: 8%;
+}
+
+
+.tnvrimg {
+    width: 100%;
+    margin: 0px auto;
+    text-align: center;
+}
+.tnvrimg img {
+    width: 1000px;
+}
+
+
+.petQ {
+    margin: 0px auto;
+    text-align: center;
+}
+
+.petQ img {
+    height: 150px;
+    width: 150px;
+    margin: 0px auto;
+    text-align: center;
+}
+.petQ p {
+    color: #000;
+    font-size: 2em;
+    font-family: 標楷體;
+    font-weight: bold;
+    text-align: center;
+}
+     
+.tnvrtext {
+    padding: 4% 8%;
+    font-size: 1.2em;
+    font-weight: bold;
+    font-family: 微軟正黑體;
+}
+
+
+
+
+
+.catQright {
+    position: absolute;
+    bottom: -50px;
+    right: 12px;
+    z-index: 999
+}
+
+.catQleft {
+    position: absolute;
+    bottom: -50px;
+    left: 12px;
+    z-index: 5
+}
+
+
+
+
+               
+
